@@ -1,0 +1,21 @@
+{
+	"name": "adfnycpayrollfl26",
+	"properties": {
+		"globalParameters": {
+			"dataflow_param_fiscalyear": {
+				"type": "int",
+				"value": 2020
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7e74c8c-d3d9-4430-aa98-d7cc440eae21",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
